@@ -23,7 +23,7 @@ The logic is very simple:
 #### Execution
 1. Download and extract the files of this repo
 2. Put the model (`model.bin`), the input file (`words.csv`) in the same folder of the extracted repo
-3. Open the `main.ipynb` file with VS code (or any other IDE). In VS code you may need to install the python and jupiter extension.
+3. Open the `main.ipynb` file with VS code (or any other IDE). In VS code you may need to install Python and Jupyter Notebook extension.
 4. Run the code
 5. Wait for the script to finish (it might take a while, depending on the number of words and the CPU power)
 6. The script will create a file named `output.csv` with the list of similar words (each word in a new line, where the first is the original word)
