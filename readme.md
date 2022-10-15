@@ -1,5 +1,5 @@
 
-# Synonyms generator for Taboo (157 languages supported)
+# AI Synonyms generator for Taboo (157 languages supported)
 
 ## Purpose
 Given a list of random words, iterate on each word and generate a list of words (up to 10) that are similar in the meaning. I used this algoritm to generate the words for my game [OpenTabu](https://github.com/rignaneseleo/OpenTabu).
